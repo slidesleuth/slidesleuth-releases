@@ -19,7 +19,8 @@ deployment, or Glama deployment.
 ## Download
 
 - [SlideSleuth Desktop](https://www.slidesleuth.com/download/)
-- [SlideSleuth 0.2.9 MCPB](https://github.com/slidesleuth/slidesleuth-releases/releases/download/v0.2.9/SlideSleuth-0.2.9.mcpb)
+- [SlideSleuth 0.2.9 MCPB (official release)](https://github.com/slidesleuth/slidesleuth-releases/releases/download/v0.2.9/SlideSleuth-0.2.9.mcpb)
+- [SlideSleuth 0.2.9 MCPB (draft branch copy)](https://github.com/slidesleuth/slidesleuth-releases/blob/codex/mcpb-supplemental-draft/SlideSleuth-0.2.9.mcpb)
 - [SlideSleuth 0.2.9 release](https://github.com/slidesleuth/slidesleuth-releases/releases/tag/v0.2.9)
 
 MCPB SHA-256:
