@@ -1,14 +1,4 @@
-> **Draft for review — not published.**
-
 # SlideSleuth MCPB — supplemental documentation
-
-This page supplements the existing `README.md` and the published release
-assets. It does not replace or modify the README, the `v0.2.9` release tag, or
-the downloadable DMG and MCPB files.
-
-**Disclosure:** I built SlideSleuth.
-
-> **Don’t leave your agent blind to the visual data inside videos.**
 
 SlideSleuth allows compatible agents to find timestamped visual and spoken
 evidence in YouTube videos through a local MCP (currently only Apple-silicon
@@ -16,12 +6,14 @@ supported). The MCP connects Claude Desktop to the locally installed
 SlideSleuth Desktop app; it is not a remote server, hosted endpoint, Docker
 deployment, or Glama deployment.
 
+This page supplements the existing `README.md` and the published release
+assets. It does not replace or modify the README, the `v0.2.9` release tag, or
+the downloadable DMG and MCPB files.
+
 ## Download
 
-- [SlideSleuth Desktop](https://www.slidesleuth.com/download/)
-- [SlideSleuth 0.2.9 MCPB (official release)](https://github.com/slidesleuth/slidesleuth-releases/releases/download/v0.2.9/SlideSleuth-0.2.9.mcpb)
-- [SlideSleuth 0.2.9 MCPB (draft branch copy)](https://github.com/slidesleuth/slidesleuth-releases/blob/codex/mcpb-supplemental-draft/SlideSleuth-0.2.9.mcpb)
-- [SlideSleuth 0.2.9 release](https://github.com/slidesleuth/slidesleuth-releases/releases/tag/v0.2.9)
+- [SlideSleuth 0.2.9 MCPB (Supplemental)](https://github.com/slidesleuth/slidesleuth-releases/blob/codex/mcpb-supplemental-draft/SlideSleuth-0.2.9.mcpb)
+- [SlideSleuth 0.2.9 DMG and MCPB release](https://github.com/slidesleuth/slidesleuth-releases/releases/tag/v0.2.9)
 
 MCPB SHA-256:
 
@@ -29,15 +21,11 @@ MCPB SHA-256:
 
 ## Install
 
-1. Install SlideSleuth Desktop and sign in.
-2. Open the downloaded `.mcpb` file in Claude Desktop.
-3. Follow the [SlideSleuth Claude Desktop setup guide](https://www.slidesleuth.com/agent-access/#claude-desktop)
-   for the remaining configuration and troubleshooting steps.
+Follow the instructions at [SlideSleuth MCP setup guide](https://www.slidesleuth.com/agent-access/)
 
-## Review prompt
+## Review prompt (paste in Claude chat after SlideSleuth Desktop and MCP install)
 
-Use SlideSleuth to find slides about batteries in
-https://www.youtube.com/watch?v=LUFJE5QkINg and explain each slide.
+"Use SlideSleuth to find slides about batteries in https://www.youtube.com/watch?v=LUFJE5QkINg and explain each slide."
 
 ## Expected result
 
