@@ -12,7 +12,7 @@ the downloadable DMG and MCPB files.
 
 ## Download
 
-- [SlideSleuth 0.2.9 MCPB (Supplemental)](https://github.com/slidesleuth/slidesleuth-releases/blob/codex/mcpb-supplemental-draft/SlideSleuth-0.2.9.mcpb)
+- [SlideSleuth 0.2.9 MCPB](https://github.com/slidesleuth/slidesleuth-releases/releases/download/v0.2.9/SlideSleuth-0.2.9.mcpb)
 - [SlideSleuth 0.2.9 DMG and MCPB release](https://github.com/slidesleuth/slidesleuth-releases/releases/tag/v0.2.9)
 
 MCPB SHA-256:
@@ -49,6 +49,10 @@ Follow the instructions at [SlideSleuth MCP setup guide](https://www.slidesleuth
   accuracy matters.
 - The public browser demo is open to all visitors and lets them explore example
   video analyses: <https://www.slidesleuth.com/demo>
+
+## Disclosure
+
+SlideSleuth Desktop and MCP is our our work.
 
 ## Privacy and support
 
