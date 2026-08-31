@@ -52,7 +52,7 @@ Follow the instructions at [SlideSleuth MCP setup guide](https://www.slidesleuth
 
 ## Disclosure
 
-SlideSleuth Desktop and MCP is our our work.
+SlideSleuth Desktop and MCP is our work.
 
 ## Privacy and support
 
